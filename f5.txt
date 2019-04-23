@@ -1,0 +1,7 @@
+f5
+
+Open with notepad "notepad f5.txt"
+Good.
+I should execise more about vi.
+
+Test1
